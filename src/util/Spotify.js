@@ -24,7 +24,11 @@ const Spotify = {
             window.location = accessUrl;
         }
     
-    }   
+    }
+
+    search(term) {
+        
+    }
 }
 
 export default Spotify;
