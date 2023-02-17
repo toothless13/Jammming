@@ -1,6 +1,6 @@
 import {clientId as importedId} from '../SensitiveInfo';
 const clientId = importedId;
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "http://soggy-attraction.surge.sh";
 let accessToken;
 
 const Spotify = {
