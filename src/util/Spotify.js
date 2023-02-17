@@ -24,10 +24,10 @@ const Spotify = {
             window.location = accessUrl;
         }
     
-    }
+    },
 
     search(term) {
-        
+
     }
 }
 
